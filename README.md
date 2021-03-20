@@ -4,10 +4,10 @@ We release the package for approximating non-singular kernel functions by `sum-o
 This is a joint work with Ph.d candidate [Z. Gao](https://github.com/ZXGao97/) who is my partner in [Prof. Xu's group](http://math.sjtu.edu.cn/faculty/xuzl/). 
 The original MATLAB codes are developed by me and Z. Gao. Zixuan Gao produces the graphical user interface (GUI) in MATLAB.
 
-The underviewed paper of SOG can be found at [J.Liang, Z.Gao, Z.Xu, A Kernel-independent Sum-of-Gaussians method by de la Vallée-Poussion
+The under reviewed paper of SOG can be found at [J.Liang, Z.Gao, Z.Xu, A Kernel-independent Sum-of-Gaussians method by de la Vallée-Poussion
 sums,arXiv:2010.05192](https://arxiv.org/abs/2010.05192).
 
-The underviewed paper of SOE can be found at [Z.Gao, J.Liang, Z.Xu, A Kernel-Independent Sum-of-Exponentials Method and Its Application to Convolution Quadrature, arXiv:2012.13477](https://arxiv.org/abs/2012.13477). 
+The under reviewed paper of SOE can be found at [Z.Gao, J.Liang, Z.Xu, A Kernel-Independent Sum-of-Exponentials Method and Its Application to Convolution Quadrature, arXiv:2012.13477](https://arxiv.org/abs/2012.13477). 
 
 VPMR used the technical support of Multiprecision Computing Toolbox produced by Advanpix company. Users can download Trail and know more about the toolbox from this [website](www.advanpix.com) (software probation period is allowed for one week).
 
